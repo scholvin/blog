@@ -1,0 +1,26 @@
+---
+title: "back on my bullshit"
+date: 2020-08-27T18:46:16-05:00
+draft: false
+author: "jks"
+authorlink: "mailto:john@scholvin.com"
+tags: [ "pedalboard", "guitars" ]
+---
+
+{{< figure src="/2020/img/IMG_0294.jpg" >}}
+
+In the year and a half prior to the Shit Going Down, I had retooled my guitar rig for playing mostly with [TBGB](http://tinybitofgiantsblood.com). A rack-mounted Kemper Profiler into a Mesa 2x12 cabinet, and a truly giant pedalboard to control it all comprise that rig. In keeping with everything else about the band's ethos, it's big, bordering on preposterous. It's overkill, but it's joyful, and you're in on the bit with us so it's OK. All in, this is an extremely versatile and toneful setup, and the programmability and configurability of the thing allow for a massive array of diverse sounds, all available at a single foot tap. There are songs in the TBGB catalogue that simply couldn't credibly be played live with a traditional setup; I don't have enough feet. It's the right tool for the job.
+
+But like so many other jobs right now, that one is idle. Who knows when my next show is going to be? To be honest, I can't even really let myself think too much about that. The future of live music feels grim, especially for any of us who are not in the top tier of the food chain. There's obviously nothing happening in the short term, and the long term for musicians at my level is far from certain, as most of the independent clubs are staring at bankruptcy. Assuming the virus is behind us in, optimistically, a year, what rooms will be left to play? There are acts that might be playing the United Center or that shithole out in Tinley Park, but all of my haunts will be in bankruptcy court. Yes, theoretically the government could pass the [Save Our Stages Act](https://indyweek.com/music/news/tell-congress-to-save-live-music/), but we live in a time where Congress couldn't figure out if it was a good idea to support 30 million unemployed and unemployable people. They obviously won't give a fuck about what happens to Martyrs.
+
+So it's time to simplify the rig for my home office/studio, where there's just no room for the digital, 200-watt behemoth, or a pedalboard that spans almost three feet. In These Uncertain Times, I have retreated to the comfort of my trusty Marshall 2187 (a 50W 2x12 combo), and I resurrected my old, pre-behemoth pedalboard so I could still get a moderate variety of good tones out of this setup while not overwhelming the available floor space in the room. The signal path is:
+
+1. a Melody Overdrive by J. Rockett Audio Designs. This is an absolutely beautiful low-gain overdrive pedal. I run the amp clean, and this box gives me everything I want when I'm feeling those vintage, gritty, pushed tones---getting my Americana on, if you will. (And you should.) The 6-band graphic EQ is super musical, and tuned in just the right places for guitar. This thing works extra special magic on my single-coil guitars, which just sparkle and shine in its thrall. Thanks to my friend Dave for the recommendation.
+2. an ancient Ross Distortion, modified (by yours truly) to add a true bypass footswitch and an on/off LED. This is probably the first guitar pedal I ever acquired, way back when I was in middle school. Back when silicon was new. This thing has been through all the wars with me. It is a classic stomp distortion in the MXR mold, and can get really fuzzy when the aptly-named Distort knob is dimed. I love the contrast of the ultra-modern Melody with its zillions of surface mounted IC's the size of a grain of rice, and this dinosaur with a single 741 op amp in a DIP package. A freaking grinder, forty years young, made with love in Overland Park, KS.
+3. an Eventide ModFactor. This was a staple of my kit for nearly a decade, providing all the modulation effects. A major mistake, though: when I retired the old pedalboard, I wiped the settings out on this guy with an idea that I was going to sell it. And I never backed it up. So I'm spending a lot of time this week trying to recreate the six main presets I'd honed over its lifetime. The good news is that there are no bad sounds in any Eventide box, and of course futilely chasing nostalgic highs from my distant past that can't be recreated is something I'm super into.
+4. a Silver Spring Reverb from Mad Professor. The Marshall doesn't have reverb, and neither does the Dr. Z Mini-Z I sometimes haul up here. This is a gem, one of the few pedals I've ever owned where you can put any knob into any position and be guaranteed a musical outcome.
+
+The power supply is under the ModFactor, a Trutone CS7 Pro. The empty space on the right is where the wah would go. I don't want to pull the one off the behemoth, so I may buy another one. I'm currently thinking about the Wahcko from Jam. Maybe when my tax refund comes I'll pull that trigger. [They are really pretty](https://www.jampedals.com/wahcko-plus/) and of course sound good, too. I'm not quite sure what to do with that blank space on the upper left. In the old days that was where the tuner lived, but since I'm not gigging right now and this board is unlikely to see a stage, a clip-on neck tuner is fine. There's room for something fun there. TBD.
+
+Like everything, I guess. TBD.
+

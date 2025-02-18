@@ -1,0 +1,27 @@
+---
+title: "hardware bug"
+date: 2021-02-14T12:04:09-06:00
+draft: false
+author: "jks"
+authorlink: "mailto:john@scholvin.com"
+tags: [ "happy valentines day","end of democracy","bugs" ]
+---
+
+{{< jksfig src="/2021/img/IMG_1311.jpg" alt="really old microchip" caption="_Motorola computer-on-a-chip from 1984 -- no idea why I have this_" >}}
+
+The deeper you go in a computer system, the harder it is to fix bugs. It's something everyone involved in building systems internalizes very early, and I think it's intuitive even to non-technical civilians.
+
+At the top level are application software bugs. We are all accustomed to deploying patches to these on a regular basis, usually without even thinking about it. We update the apps on our phones and computers usually by a single tap or click, often many times a month. It's painless, though it's worth noting that not all software is created equally. Sometimes software patches make things worse than they were. And not everything is as easy as tapping "Update All" on my phone. Imagine you're a bank, and you need to update the application that approves credit transactions all around the world in real-time. You can't just shut down for an hour, or even a minute. Still, the point remains: it's fixable. And if the patch didn't work, or made it worse, a new patch is coming soon.
+
+The next level down is the operating system. Builders have gotten this to the point where updating it is mostly routine, though the odds of something going drastically wrong in the process and leaving you with a brick are quite a bit higher. There's a lot more testing to be done, and often the upgrades need to be scheduled and planned because these take longer, are harder to undo, and the probability of trouble is much higher than the application level. Still, we manage. Stuff works.
+
+Below here, things get really hard. Most civilians probably don't even know their devices have something called a BIOS (basic input/output system). This is software that is semi-permanently part of the computer itself, the layer that sits just between the operating system and the hardware. It's there when you turn it on, and it's what starts the layers above it during boot. BIOS bugs are nasty, and in some cases impossible to work around from the higher levels. It's also the layer where nefarious agents can wreak the most havoc. If you want to monitor or disrupt someone's every activity with the lowest chance of getting caught yourself, you do it via attacking the BIOS. BIOS patches are especially tricky to deploy. If something goes wrong during a BIOS patch, the odds that you'll have a brick where your computer used to be are pretty high.
+
+Ultimately, the worst bug is a hardware bug. Generally, you can't fix these without throwing out the machine and starting over. Sometimes you can work around them in the layers above, usually at a cost of speed, performance, and/or security. Intel has a couple of famous example of this. They released a CPU chip in 1994 that had a bug in how it did [division](https://en.wikipedia.org/wiki/Pentium_FDIV_bug). More [recently](https://www.theverge.com/2018/1/3/16844630/intel-processor-security-flaw-bug-kernel-windows-linux), they released a CPU chip that had serious security vulnerabilities, allowing unauthorized access to other users' data in live systems. The big operating systems makers (Apple, Microsoft, Linux) had to rewrite their code to mitigate this risk, but they weren't able to eliminate it entirely. This hardware is basically landfill waiting to happen.
+
+I find myself revisiting this hierarchy after the events of this past week, and, in my mind, how it maps to our Constitutional and legal landscape. Because I am an unrepentant nerd, I have long drawn a parallel between these tiers of software system bugs and lawmaking. As I see it, software patches are local laws and ordinances; operating system patches are federal laws and statues. Amending the Constitution itself is something akin to a BIOS flash. And underlying it all is people---the hardware.
+
+Friends, I'm here to report that the hardware is broken. Whatever evolutionary pressures arose in our distant past to hard-wire this rigid tribalism into our brains introduced the sort of bug for which there's no fix coming. We have built these layers of software that we used to maintain civilization on top of bad silicon (or, I suppose, bad carbon). We make a lot of self-important noise about power deriving from the consent of the governed, and the world's oldest democracy, and the supposedly incredible, supposedly living document that the founders wrought as our roadmap to a more perfect Union. Some of us swear oaths to defend it. Liberty and justice for all! But the system can no longer carry out its basic instructions. We can't agree that it's a good idea to end a pandemic, or that ruining the planet is a problem, or even that inciting armed insurrection against ourselves is a poor choice. We just look at our tribe and believe as they do. Or, more accurately, we look at the _other_ tribe and believe the _opposite_ of what they do.
+
+The vast majority of us have now decided to ignore all those layers of sophisticated code we've built up around us over the centuries, and instead break it down to "like me: good; not like me: bad." Caveman words for caveman thinking. Caveman atrocities will inevitably be the consequence. This hardware is basically landfill waiting to happen.
+

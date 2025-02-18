@@ -1,0 +1,26 @@
+---
+title: "catching up"
+date: 2024-06-30T17:27:26-05:00
+draft: false
+author: "jks"
+authorlink: "mailto:john@scholvin.com"
+tags: ["grief","music","running","gratitude" ]
+---
+
+{{< jksfig src="/2024/img/cas_a.jpg" caption="Cassiopeia A (see footnote 1)" alt="a composite image of the Cassiopeia A supernova remnant">}}
+
+I kinda feel like I lost the first half of this year. The first four months were largely consumed by taking care of my dad, and then the next two in dealing with the aftermath (emotional, logistical, financial) of his passing. Last weekend we had a celebration of life service to honor him, and it was terrific. It absolutely filled my heart to see so many people come out to remember him and to support us. And while I still have a fair amount of paperwork to wade through on his behalf, none of that has the now-now-now urgency of his care, or of the preparation for the memorial. I remember waking up last Sunday, a little bit hungover and a whole lot exhausted, and thinking, “what’s next?” I’ve spent a fair amount of time in the last week trying to sketch out the broad arc of what I want to accomplish the rest of this year. I still haven’t nailed that all the way down; I have some really big ideas, probably too many to fit into the space I have. We’ll see. But there are a couple of things already in place that I want to share.[^1]
+
+Most immediately, my band, [Tiny Bit of Giant’s Blood](https://www.tinybitofgiantsblood.com/), has a show coming up on July 20th at SPACE in Evanston. This band doesn’t play live a lot, a source of profound chagrin for all of us. But we try to make up for it by going really big when we do get out. So if you’re local and you have interest in what will surely be a massive spectacle, along with plenty of face-melting rock, there are [tickets available here](https://www.ticketweb.com/event/tiny-bit-of-giants-blood-space-tickets/13524164). Tony’s incredibly talented daughter Vivi, home for the summer from uni in Liverpool, is opening for us. It’s amazing to be able to share a stage with the kid of my musical partner of three decades plus. It’s an all-ages show; bring the kids. Bring their friends, too.
+
+The next big thing on the calendar, and I think I mentioned this earlier, is that I’m running the Chicago Marathon this fall. Well, I should say I’m registered to run it. So far so good, but if I’m being completely honest with myself, there’s a decent chance some part of this 57-year-old frame will break down during training. I don’t want to jinx anything by speaking in absolute terms about future plans.[^2] Assuming no part of my body spontaneously combusts, I’ll be out there on October 13 for who knows how many hours. It’s my first marathon, so this is both terrifying and exhilarating. I’m going to have much more to say about this.[^3] But one thing I want to get out there now is that like so many athletes in this race, I’m running on behalf of a charity. In my case, it's [Camp One Step](https://camponestep.org/), an organization which does terrific work running camps for kids with cancer, striving to give them the most inclusive, normal kid experience possible. If you’ve got a couple of bucks to spare, I’d appreciate you throwing them [toward this great cause](https://secure.qgiv.com/event/2024bankofamericachicagomarathon/account/1649065).
+
+So, yeah, three paragraphs, two of which are asking for money. Hang with me, it won’t happen again anytime soon. I have a few ideas that have been percolating for six months that I want to get off my chest here in the near future. And, you know, there’s the impending end of the republic to work through together. Stay tuned for that and other uplifting content.
+
+One last thing for now. My experience of the last six months isn’t really something I’d wish on anyone. Sure, it’s the natural order for our parents to predecease us, but that doesn’t make the experience in any way easy, especially when as in this case the journey is a long and winding road through the American “healthcare” “system” and your name is on all the paperwork. It’s stressful and, somewhat paradoxically, quite lonesome at times. But I never really felt _alone_ because of the incredible love and support so, so many of my family and friends provided. If you were there to buy me a drink, to listen, to talk about something else, to keep the house and kids and dog functioning, to share a meal, to send me ridiculous memes, to dance or play volleyball, to cover for me at work, to visit Dad when I just couldn’t, to distract me, to share music, to run with me, to offer advice, and to know when not to: thank you. You made an impossible thing doable. You all know who you are. I won’t forget it.
+
+[^1]: I couldn't find a great header image, so I borrowed one from [NASA](https://www.flickr.com/photos/nasawebbtelescope/53453268481/in/album-72177720313923911/). Dad agreed with me that we should swap the NASA and Defense budgets and see what comes of it.
+[^2]: This applies to much more than running.
+[^3]: While visiting Dad one day this spring, the marathon came up, and he said to the other person visiting, “it’s all he talks about.” Slanderous! It’s only about 85% of what I talk about.
+
+

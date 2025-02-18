@@ -1,0 +1,34 @@
+---
+title: "emergen-c"
+date: 2020-12-30T15:15:53-06:00
+draft: false
+author: "jks"
+authorlink: "mailto:john@scholvin.com"
+tags: [ "ragnar", "running" ]
+---
+
+Late yesterday I got an email from FedEx notifying me I was getting a package from "Ragnar Trail Atlanta" sometime today. It weighs three pounds. No other information available.
+
+My eyes rolled all the way up into my head. My skin flushed as every muscle in my body clenched in rage. I may have foamed at the mouth and stopped breathing for a bit. There but for the grace did I not stroke out on the spot.
+
+Let me explain. Twice in the past, I've captained Ragnar teams, once in the Phoenix area and another time in western Michigan. For those who don't know, briefly, [Ragnar road races](https://www.runragnar.com/ragnar/road) are twelve-person team running relays of about 200 miles total, run on streets over about thirty continuous hours. Each team piles into two vans which follow and meet each runner at the beginning/end of their legs. Each runner ends up running three legs that total somewhere around 15 miles, with at least one leg in the middle of the night. Big, big party at the finish.
+
+The logistics around getting a team together and then managing the race itself are immense, especially when people are traveling for the races, as we did. My friend and stalwart co-captain Lisa and I spent many hours poring over google sheets (and pouring down bourbons) in the weeks before both of these races. The actual race weekend is as physically and mentally taxing as you'd expect, but it comes with a tremendous sense of relief and accomplishment at the end. There are tears, howls of laughter, runner stank, and sometimes loud snoring. You bond with people in those vans.
+
+We were preparing for our third Ragnar last winter, the SoCal which runs from Huntington Beach down to San Diego in April. It's one of the premiere races in the annual series, with beautiful oceanside runs in perfect, late-spring California weather. It sells out early every time. Of course we went through the various stages of grief as the outlines of the pandemic unfolded in February and March, with the race eventually being canceled as everything was shutting down. We were disappointed, but everyone understood perfectly well. We choose our teammates carefully, and the personality type that typically accompanies a Covid-denier would never have made the cut.
+
+What was hard to understand, though, was Ragnar's decision not to refund our entry fee, which was well over $2000. Since the cancellation was announced less than a month before the race, they said, they had already started to pay some of their vendors and the money was already gone. My feeling on this, held somewhat passionately, was *tough tiddies*. Every business in America was dealing with the same thing at that moment, and other than the airlines or those too small to have a choice, they were trying to do the right thing by their customers. Not Ragnar who, by the way, is a subsidiary of Reebok---hardly a mom-n-pop struggling for capital. The particular hell of this is that many captains had paid the fee up front, and not yet collected the shares from the team. Mine had already paid me, thankfully. But a lot of captains thought they were out $2000, because for the first couple of weeks, Ragnar did an absolutely terrible job of communicating what was happening, other than that the races were not, and that they were keeping the money.
+
+Their first "solution" was to say they'd just hold on to the money until the 2021 race and apply it then, as if there is any kind of guarantee you can get a team together and get them to travel (to say nothing of whether we will even be running again in April, which right now feels like a big "no"). It takes at least four months to plan one of these, you don't do it on a lark. So they got a lot of pushback. Their next proposal was that we could apply the fee to any other remaining race of our choosing in 2020. Which, of course, fell apart because in another month every race was canceled for the year. At no point did they even consider refunding these fees, and for a long time it wasn't clear we could even transfer our registrations to someone else. Run or eat shit. Meanwhile, they were still accepting registration fees for races later in the year, at a point by which it was obvious nobody was running anywhere. Depraved. Fraudulent. Amoral.
+
+It was at this point that I got kicked off of their Facebook pages for warning other captains or would-be captains they were about to get fleeced. It is possible my verb choices influenced this ban, but I stand by what I did. People were shocked to learn this was going on.
+
+Where it finally ended, months later, was that they promised all of us that we could use that fee for some future race whenever they happen again, and that yes, we could transfer our registrations to someone else. Given that, I made the decision to refund my teammates what they'd paid me. I don't think I'm ever going to captain one of these again, but I was pretty sure I could sell it to someone who would. They have a tentative slate scheduled for early 2021 in the kinds of states where officials don't care if people live or die. Maybe by the end of the year it'll even be safe somewhere. Regardless, as it stands, I have a $2000+ investment that I am sitting on, waiting to sell when we get back to something like real life.
+
+So it was with this in mind that you may now understand why I reacted so viscerally to getting an unsolicited package from them, especially with a specific event attached. My thought was, "my god, they applied my fee to a race that's coming up in 3 months and now I'm going to have to cut someone to get that undone, or sell this thing at an enormous loss." That may seem like a towering leap of pessimism even by my standards, but believe me, it's not. They never do the right thing first, in fact rarely do they at all. I messaged Lisa to let her know that I thought it was probably the pre-race info packet, and that if it was, my next message would be from prison.
+
+Today the package arrived, and what to my wondering eyes did appear but a box of Emergen-C supplement packets and a really thoughtful letter addressed to captains about how hard this year has been for all of us, and especially those of us who run socially. I felt quite small indeed for my negative assumptions about what they'd done and how they were trying to steal my money again. It was a gift. Admittedly not a very tasty one, and one from which a placebo effect is probably the best I can hope for, rather than any meaningful immune system boost. Still. A gift. They tried. And maybe this means they haven't forgotten me.
+
+May the year ahead greet you with open roads on which to run, however you define "run," and may ominous packages turn out to contain unexpected gifts.
+
+{{< jksfig src="/2020/img/IMG_1161.JPG" >}}

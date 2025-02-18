@@ -1,0 +1,140 @@
+baseURL = "https://scholvin.com/"
+languageCode = "en-us"
+title = "John Scholvin"
+theme = "hugo-vitae"
+pagination.pagerSize = 10 
+copyright = "Copyright © 2016-2025 John Scholvin"
+# the next line breaks everything in preview, maybe that cocksucker bep knows why
+#canonifyurls = true
+publishDir = "/www/vhosts/scholvin.com"
+ignorefiles = ["data","conf"]
+enableEmoji = true
+disableKinds = "section"
+
+# TODO for the archive you want:  https://gohugohq.com/partials/activity-calendar-posts/
+# TODO better font in highlight/code
+
+# work in progress: generate files for email
+# https://notestoself.dev/posts/rendering-html-email-version-of-articles-with-hugo/
+[outputFormats]
+  [outputFormats.email]
+    name = "email"
+    path = "html_email"
+    mediaType = "text/html"
+    isHTML = true
+
+[outputs]
+  page = ["HTML", "email"]
+
+[markup]
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ""
+    lineNoStart = 1
+    lineNos = true
+    lineNumbersInTable = true
+    noClasses = true
+    style = "monokai"
+    tabWidth = 4
+
+[blackfriday]
+  plainIDAnchors = true
+  hrefTargetBlank = true
+
+[taxonomies]
+	tag = "tags"
+
+[params]
+	subtitle = "still can't fit a half-stack in the trunk"
+
+	# Optional 80x80 avatar image.
+	avatar = "/img/head.jpg"
+
+	# Content types to disable Disqus on.
+	disableDisqusTypes = ["page"]
+
+	# customCSS = "css/custom.css"  # Custom CSS applied to default styles.
+
+    listAuthor = false
+    darkmode = false
+    wordCount = true
+    readingTime = true
+    #hidemeta = true
+
+[markup.goldmark.renderer]
+    unsafe = true
+
+# Nav.
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+# we don't really need this
+#[[menu.main]]
+    #name = "All posts"
+    #url = "/posts"
+    #weight = 2
+
+[[menu.main]]
+    name = "About"
+    url = "/posts/about"
+    weight = 3
+
+[[menu.main]]
+    name = "Tags"
+    url = "/tags"
+    weight = 4
+
+[[menu.main]]
+    name = "Subscribe"
+    url = "/email/subscribe"
+    weight = 4
+
+[[params.social]]
+    name = "Gmail"
+    icon = "far fa-envelope"
+    cmd = "mailto:john@scholvin.com"
+
+[[params.social]]
+    name = "YouTube"
+    icon = "fab fa-youtube"
+    url = "https://youtube.com/c/JohnScholvin"
+
+[[params.social]]
+    name = "Github"
+    icon = "fab fa-github"
+    url = "https://github.com/scholvin/"
+
+[[params.social]]
+    name = "LinkedIn"
+    icon = "fab fa-linkedin"
+    url = "https://linkedin.com/in/scholvin/"
+
+[[params.social]]
+    name = "Reddit"
+    icon = "fab fa-reddit"
+    url = "https://reddit.com/user/scholvin"
+
+[[params.social]]
+    name = "Stack Overflow"
+    icon = "fab fa-stack-overflow"
+    url = "https://stackoverflow.com/users/1053577/john-s"
+
+[[params.social]]
+    name = "Mastodon"
+    icon = "fab fa-mastodon"
+    url = "https://theinternet.social/@scholvin"
+
+# TODO vimeo
+
+[[params.social]]
+    name = "Bluesky"
+    icon = "fab fa-bluesky"
+    url = "https://bsky.app/profile/scholvin.com"
+
+[[params.social]]
+    name = "RSS"
+    icon = "fas fa-rss"
+    url = "/index.xml"
