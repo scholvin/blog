@@ -56,8 +56,8 @@ me speaking on behalf of my employer.
 Nuts and bolts: I'm trying to do this fast, light, and cheap. It's a static site powered by 
 [Hugo](https://gohugo.io) featuring the [Vitae](https://github.com/dataCobra/hugo-vitae) theme.
 The web server is [lighttpd](https://www.lighttpd.net/) and I use [GoAccess](https://goaccess.io/) to
-look at the log files once in a while.  It's homed in lovely Oregon, USA, under the benevolent gaze
-of the world's richest man. I'm not using any trackers or cookies or beacons or any other
+look at the log files once in a while. Hosting is by [DigitalOcean](https://digitalocean.com). 
+I'm not using any trackers or cookies or beacons or any other
 creepy shit that might follow you around the internet. Let's just keep this between us.
 
-<span style='font-size: smaller;'>last update: 2025-01-12</span>
+<span style='font-size: smaller;'>last update: 2025-03-04</span>
