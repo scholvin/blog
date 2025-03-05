@@ -16,6 +16,7 @@ disableKinds = "section"
 
 # work in progress: generate files for email
 # https://notestoself.dev/posts/rendering-html-email-version-of-articles-with-hugo/
+# template from: https://github.com/leemunroe/responsive-html-email-template/blob/master/email-inlined.html
 [outputFormats]
   [outputFormats.email]
     name = "email"
