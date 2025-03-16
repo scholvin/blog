@@ -4,7 +4,7 @@ date: 2025-02-09T09:58:03-06:00
 draft: false
 author: "jks"
 authorlink: "mailto:john@scholvin.com"
-tags: [ "dawes", "randy newman", "los angeles", "neurosurgery", "tattoos", "politics", "sports", "running" ]
+tags: [ "dawes", "randy newman", "los angeles", "neurosurgery", "tattoos", "politics", "sports", "running", "sunday seven" ]
 ---
 
 _another in the Sunday Seven series_
