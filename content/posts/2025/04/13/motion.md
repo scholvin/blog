@@ -4,7 +4,7 @@ date: 2025-04-13T12:10:21-05:00
 draft: false
 author: "jks"
 authorlink: "mailto:john@scholvin.com"
-tags: [ "dance","parenting","volleyball","neurosurgery","running","travel","guitar" ]
+tags: [ "dance","parenting","volleyball","neurosurgery","running","travel","guitar","sunday seven" ]
 ---
 
 {{< jksfig src="/2025/img/leah-dancing-2.jpg" caption="photo by KT Miller Photography" alt="Leah dancing, posing on one foot with the other high in the air" >}}
