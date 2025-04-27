@@ -13,7 +13,7 @@ My [surgery](https://scholvin.com/posts/2025/03/22/neck-faq/) Thursday was compl
 
 After a few hours of post-op grogginess, I spent an uneventful night in the hospital. Every time a nurse or doctor asked me to rate my pain on a 0-10 scale, I answered "1." I have a mild sore throat, not unlike the kind I'd get with a cold, and a sensation in my esophagus that feels something like a touch of acid reflux. Neither would be serious enough for me to even reach for OTC meds if they occurred during normal times.
 
-They sent me home about 5:00pm on Friday. Per my discharge orders, I have been taking Tylenol for pain, and Flexeril to keep the muscles in the back of my neck from tightening up too much. That's a thing that happens, apparently. I've needed no serious painkillers required so far, though I have them handy if needed.
+They sent me home about 5:00pm on Friday. Per my discharge orders, I have been taking Tylenol for pain, and Flexeril to keep the muscles in the back of my neck from tightening up too much. That's a thing that happens, apparently. I've needed no serious painkillers so far, though I have them handy if needed.
 
 The million-dollar question, of course: did it work? I can say that the numbness/weakness in my right upper arm is completely gone. In fact I noticed that as soon as the anesthesia wore off. This makes sense, since the C5/C6 disc was far more crushed than the C6/C7 disc, and that C5/C6 foraminal cavity is where the upper arm nerve exits.
 
