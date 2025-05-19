@@ -5,6 +5,7 @@ draft: false
 author: "jks"
 authorlink: "mailto:john@scholvin.com"
 tags: [ "neurosurgery","personal","entropy" ]
+archive: ["2025", "2025-03", "2025-03-21"]
 ---
 
 _This week I'm deviating from the usual Sunday Seven pattern to provide a comprehensive FAQ about what's going on with my neck. If you're skittish about medical stuff, maybe skip this one._

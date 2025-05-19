@@ -5,6 +5,7 @@ draft: false
 author: "jks"
 authorlink: "mailto:john@scholvin.com"
 tags: [ "running", "sunday seven", "politics", "vaccinations", "travel", "neurosurgery", "parenting" ]
+archive: [ "2025", "2025-04", "2025-04-06" ]
 ---
 
 {{< jksfig src="/2025/img/big10k.jpg" caption="old man running" alt="a shot of me crossing the finish line at last years BTN Big 10k"  >}}

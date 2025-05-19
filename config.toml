@@ -44,7 +44,8 @@ disableKinds = "section"
   hrefTargetBlank = true
 
 [taxonomies]
-	tag = "tags"
+    tag = "tags"
+    archive = "archive"
 
 [params]
 	subtitle = "still can't fit a half-stack in the trunk"
