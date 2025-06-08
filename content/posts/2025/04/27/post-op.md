@@ -7,7 +7,7 @@ authorlink: "mailto:john@scholvin.com"
 tags: [ "neurosurgery", "selfie" ]
 ---
 
-{{< jksfig src="/2025/img/collar.jpg" caption="shaving is a challenge" alt="a selfie of me in a neck collar"  >}}
+{{< jksfig src="/2025/img/collared.jpg" caption="shaving is a challenge" alt="a selfie of me in a neck collar"  >}}
 
 My [surgery](https://scholvin.com/posts/2025/03/22/neck-faq/) Thursday was completed without issue. It took about three hours, as planned. My greatest fear[^1]---waking up during the procedure---mercifully did not come to pass. Dr. Wang stopped by immediately afterward and said he was extremely pleased with how it went. Then again, I suppose a surgeon coming by to say "wow, I really did some mediocre work there" would be unusual.
 
