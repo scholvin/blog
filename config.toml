@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "John Scholvin"
 theme = "hugo-vitae"
 pagination.pagerSize = 10 
-copyright = "Copyright © 2016-2025 John Scholvin"
+copyright = "Copyright © 2016-2026 John Scholvin"
 # the next line breaks everything in preview, maybe that cocksucker bep knows why
 #canonifyurls = true
 publishDir = "/www/vhosts/scholvin.com"

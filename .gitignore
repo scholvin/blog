@@ -1,3 +1,5 @@
 themes/
 plumbing/
 .hugo_build.lock
+**/._.DS_Store
+**/.DS_Store
